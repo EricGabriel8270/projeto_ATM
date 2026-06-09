@@ -18,10 +18,9 @@ O Port ATM foi construído para replicar as regras de negócio de um ambiente ba
 * **Transferências:** Validação cruzada de agência e conta corrente do destinatário (com trava de segurança impedindo transferências para a própria conta).
 * **Saldo e Extrato:** Consulta de histórico financeiro do usuário.
 
-**🎨 Interface (UI/UX)**
-* Design "Flat" e moderno, afastando-se do padrão clássico do Windows.
+**🎨 Interface **
 * Modo *Full Screen* (Tela Cheia) imersivo, ocultando barras de tarefas para simular um terminal real.
-* Feedback visual em tempo real (mudança de cores em botões e alertas customizados).
+* Feedback visual em tempo real (alertas customizados).
 
 ## 🛠️ Tecnologias Utilizadas
 * **Front-end:** Windows Forms (WinForms)
